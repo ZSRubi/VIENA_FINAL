@@ -32,8 +32,10 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 </head>
 
-    <?php require 'head.php'?>
-    
+
+<?php require 'head.php'?>
+
+
 <body>
 
     <div class="slider">
