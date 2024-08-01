@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Slider</title>
     <link rel="stylesheet" href="estilos/index.css">
     <title>VIENA INGENIEROS</title>
 
@@ -45,22 +44,22 @@
         <div class="list">
 
             <div class="item">
-                <img src="./image/ffff.jpg" alt="">
+                <img src="./image/imagen01.jpg" alt="">
 
                 <div class="content">
-                    <div class="title">MAGIC SLIDER</div>
-                    <div class="type">FLOWER</div>
+                    <div class="title">VIENA INGENIEROS</div>
+                    <div class="type"><h1>SAC</h1></div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
 
             <div class="item">
-                <img src="./image/image.png" alt="">
+                <img src="./image/imagen02.jpg" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -69,13 +68,13 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
 
             <div class="item">
-                <img src="./image/img4.jpg" alt="">
+                <img src="./image/imagen03.jpg" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -84,13 +83,13 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
 
             <div class="item">
-                <img src="./image/img3.jpg" alt="">
+                <img src="./image/imagen04.png" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -99,7 +98,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
@@ -110,16 +109,16 @@
         <div class="thumbnail">
 
             <div class="item">
-                <img src="./image/img1.jpg" alt="">
+                <img src="./image/imagen01.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img2.jpg" alt="">
+                <img src="./image/imagen02.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img4.jpg" alt="">
+                <img src="./image/imagen03.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img3.jpg" alt="">
+                <img src="./image/imagen04.png" alt="">
             </div>
 
         </div>
