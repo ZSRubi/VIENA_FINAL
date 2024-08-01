@@ -143,7 +143,10 @@
 
 
 
-    <?php require 'footer.php'?>   
+  
+
+    <?php require 'footer.php'; ?>
+ 
    
     <!-- Más scripts según tus necesidades -->
     <script src="app.js"></script>
