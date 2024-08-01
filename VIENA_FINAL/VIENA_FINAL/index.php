@@ -60,7 +60,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
-                        <button>SEE MORE</button>
+                        <button>MAS</button>
                     </div>
                 </div>
             </div>
