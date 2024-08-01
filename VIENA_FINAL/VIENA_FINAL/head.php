@@ -10,7 +10,7 @@
         .fixed-top-custom {
             background: black;
             color: white; /* Asegura que el texto sea blanco en el fondo oscuro */
-            padding: 10px 0; /* Ajusta el espaciado vertical si es necesario */
+            padding: 30px 0; /* Ajusta el espaciado vertical si es necesario */
         }
         /* Estilo para el menú desplegable */
         .navbar-nav .dropdown-menu {
