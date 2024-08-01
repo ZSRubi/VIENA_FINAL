@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Slider</title>
     <link rel="stylesheet" href="estilos/index.css">
     <title>VIENA INGENIEROS</title>
 
@@ -55,8 +54,8 @@
                 <img src="./image/imagen01.jpg" alt="">
 
                 <div class="content">
-                    <div class="title">MAGIC SLIDER</div>
-                    <div class="type">FLOWER</div>
+                    <div class="title">VIENA INGENIEROS</div>
+                    <div class="type"><h1>SAC</h1></div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
