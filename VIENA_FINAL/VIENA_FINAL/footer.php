@@ -1,8 +1,6 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-require 'footer.php';
-?>
+<!-- footer.php -->
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -16,7 +14,7 @@ require 'footer.php';
     <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
     <link href="./img/VIENA LOGO 1.png" rel="icon">
     <link href="./img/VIENA LOGO 1.png" rel="apple-touch-icon">
-    <link rel="stylesheet" href="./estilos/footer.css">
+    <link rel="stylesheet" href="estilos/footer.css">
 <footer class="pie">
   <div class="header">
     <div class="logo">
