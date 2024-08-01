@@ -52,7 +52,7 @@
         <div class="list">
 
             <div class="item">
-                <img src="./image/ffff.jpg" alt="">
+                <img src="./image/imagen01.jpg" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -67,7 +67,7 @@
             </div>
 
             <div class="item">
-                <img src="./image/image.png" alt="">
+                <img src="./image/imagen02.jpg" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -82,7 +82,7 @@
             </div>
 
             <div class="item">
-                <img src="./image/img4.jpg" alt="">
+                <img src="./image/imagen03.jpg" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -97,7 +97,7 @@
             </div>
 
             <div class="item">
-                <img src="./image/img3.jpg" alt="">
+                <img src="./image/imagen04.png" alt="">
 
                 <div class="content">
                     <div class="title">MAGIC SLIDER</div>
@@ -117,16 +117,16 @@
         <div class="thumbnail">
 
             <div class="item">
-                <img src="./image/img1.jpg" alt="">
+                <img src="./image/imagen01.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img2.jpg" alt="">
+                <img src="./image/imagen02.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img4.jpg" alt="">
+                <img src="./image/imagen03.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/img3.jpg" alt="">
+                <img src="./image/imagen04.png" alt="">
             </div>
 
         </div>
