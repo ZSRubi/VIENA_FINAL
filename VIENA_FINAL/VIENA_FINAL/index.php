@@ -7,8 +7,8 @@
     <title>VIENA INGENIEROS</title>
 
   <!-- Favicons -->
-  <link href="./img/VIENA LOGO 1.png" rel="icon">
-  <link href="./img/VIENA LOGO 1.png" rel="apple-touch-icon">
+  <link href="./image/VIENA LOGO 1.png" rel="icon">
+  <link href="./image/VIENA LOGO 1.png" rel="apple-touch-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
