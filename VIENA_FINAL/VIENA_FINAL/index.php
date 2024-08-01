@@ -33,14 +33,10 @@
 </head>
 
     <?php require 'head.php'?>
+    
 <body>
 
-  
-
-    
     <div class="slider">
-
-
         <div class="list">
 
             <div class="item">
