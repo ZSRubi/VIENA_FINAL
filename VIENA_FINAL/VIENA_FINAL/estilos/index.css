@@ -12,23 +12,34 @@ a{
     text-decoration: none;
 }
 
-header{
-    width: 1140px;
-    max-width: 80%;
-    margin: auto;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    position: relative;
-    z-index: 100;
+header {
+    width: 100%; /* Asegura que el header ocupe todo el ancho del viewport */
+    max-width: none; /* Elimina cualquier restricción de ancho máximo */
+    margin: 0; /* Elimina los márgenes para que el header toque los bordes del viewport */
+    height: 50px; /* Altura del header */
+    display: flex; /* Usa flexbox para alinear el contenido */
+    align-items: center; /* Centra el contenido verticalmente */
+    position: fixed; /* Fija el header en la parte superior del viewport */
+    top: 0; /* Asegura que esté en la parte superior */
+    left: 0; /* Asegura que esté en el borde izquierdo */
+    z-index: 100; /* Asegura que el header esté encima de otros elementos */
+    background-color: black; /* Fondo negro (ajustar según sea necesario) */
+    color: #eee; /* Color del texto */
+    padding: 0 20px; /* Espaciado interno (opcional, ajustar según sea necesario) */
 }
 
-header a{
-    color: #eee;
-    margin-right: 5px;
-    padding: 5px 10px;
-    transition: 0.2s;
+header a {
+    color: #eee; /* Color del texto de los enlaces */
+    margin-right: 5px; /* Espaciado entre enlaces */
+    padding: 5px 10px; /* Espaciado interno de los enlaces */
+    transition: 0.2s; /* Transición suave en cambios de estilo */
 }
+
+/* Opcional: Si deseas agregar espacio en la parte superior del contenido para no sobreponerse al header */
+body {
+    padding-top: 50px; /* Asegura que el contenido no quede oculto debajo del header */
+}
+
 
 a.active{
     background: #14ff72cb;
