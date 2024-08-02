@@ -16,8 +16,8 @@ $error_message = isset($_GET['error']) && $_GET['error'] == 'password' ? 'Las co
 
 <!DOCTYPE html>
 <html>
-<link href="./img/VIENA LOGO 1.png" rel="icon">
-<link href="./img/VIENA LOGO 1.png" rel="apple-touch-icon">
+<link href="./image/VIENA LOGO 1.png" rel="icon">
+<link href="./image/VIENA LOGO 1.png" rel="apple-touch-icon">
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -38,7 +38,7 @@ $error_message = isset($_GET['error']) && $_GET['error'] == 'password' ? 'Las co
         <?php endif; ?>
         <div class="inner">
             <div class="image-holder">
-                <img src="img/image.png" alt="" class="registro01">
+                <img src="./image/img 2.jpg" alt="" class="registro01">
                 <a href="Login.php">
                 </a>
             </div>
