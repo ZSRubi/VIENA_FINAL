@@ -120,8 +120,8 @@ body {
                     </li>
                 </ul>
                 <div class="ml-3">
-                    <button onclick="location.href='sesion.php'" class="btn btn-secondary">Iniciar Sesión</button>
-                    <button onclick="location.href='registro.php'" class="btn btn-secondary">Registrate</button>
+                    <button onclick="location.href='iniciar.php'" class="btn btn-secondary">Iniciar Sesión</button>
+                    <button onclick="location.href='registrate.php'" class="btn btn-secondary">Registrate</button>
                 </div>
             </div>
         </div>
