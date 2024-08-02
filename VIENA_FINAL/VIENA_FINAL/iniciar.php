@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
     <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
-    <link href="./img/VIENA LOGO 1.png" rel="icon">
-    <link href="./img/VIENA LOGO 1.png" rel="apple-touch-icon">
+    <link href="./image/VIENA LOGO 1.png" rel="icon">
+    <link href="./image/VIENA LOGO 1.png" rel="apple-touch-icon">
     <link rel="stylesheet" href="./estilos/iniciar.css">
 
     <title>Inicia Sesion</title>
@@ -29,7 +29,7 @@
                 <h3 class="font-weight-bold text-light"> BIENVENIDO </h3>
                 <p class="lead text-light">VIENA INGENIEROS</p>
                 <div class="d-none d-xl-block align-self-center">
-        <img src="./img/img 1.jpg" class="img-fluid" alt="Imagen lateral">
+        <img src="./image/imagen01.jpg" class="img-fluid" alt="Imagen lateral">
     </div>
               </div>
            </div>
