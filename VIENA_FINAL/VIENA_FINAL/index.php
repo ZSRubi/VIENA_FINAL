@@ -33,8 +33,6 @@
 </head>
 
 
-<?php require 'head.php'?>
-
 
 <body>
 
